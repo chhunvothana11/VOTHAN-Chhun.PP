@@ -1,0 +1,86 @@
+--------------------------------------------------------------------------
+Version v3.1 - 04th August, 2022
+--------------------------------------------------------------------------
+
+ - NEW: Demo - Home 10
+ - NEW: Demo - Home 11
+ - NEW: Demo - Home 12
+ - NEW: Demo - Home 13
+ - NEW: Demo - Home 14
+ - NEW: Features Added
+ - NEW: Elements
+ - NEW: Shop Pages
+ - NEW: Casestudy Page
+ - NEW: Portfolio Pages
+ - UPDATED - Inner Pages Title
+ - UPDATED - Navigation
+ - UPDATED - Container Width
+ - UPDATED - CSS Updated
+ - UPDATED: jQuery
+ - UPDATED: Blog Pages
+ - UPDATED: Latest Bootstrap Version
+ - UPDATED: Latest Fontawesome
+ - UPDATED: Inner Pages Footer
+ - UPDATED: Inner Pages Header
+ - UPDATED: Portfolio Page Gallery
+ - UPDATED: Default CSS
+ - UPDATED: Classes, Maximum Use of Bootstrap Classes
+ - UPDATED: Preview Page
+ - UPDATED: Page Loader
+ - DELETED: Switcher CSS and JS
+ - DELETED: Less CSS
+ 
+--------------------------------------------------------------------------
+Version v3.0 - 14t June, 2020
+--------------------------------------------------------------------------
+
+ - NEW: Demo - 05
+ - NEW: Demo - 06
+ - NEW: Demo - 07
+ - NEW: Demo - 08
+ - NEW: Demo - 09
+ - NEW: SASS CSS
+ - NEW: LESS CSS
+ - NEW: Added Account Page Style
+ - UPDATED: Demo - 02 Video (Added Vimeo Video)
+ - UPDATED: Demo - 03 Video (Added Youtube Video)
+ - UPDATED: Default css
+ - UPDATED: SCSS
+ - UPDATED: Demo-01, Demo-02, Demo-03, Demo-04, One Page Demos
+ - UPDATED: Inner pages
+ - UPDATED: Services
+ - UPDATED: Latest jQuery
+ - UPDATED: Latest Bootstrap Version
+ - UPDATED: Latest Fontawesome
+ - UPDATED: Contact Forms and Newsletter
+ - UPDATED: Update list style
+ - UPDATED: Inner pages footer
+ - UPDATED: Google Map
+ - UPDATED: Special Pages, Login, Register, Forgot Password, 404 Page, Comingsoon Page, etc.
+
+--------------------------------------------------------------------------
+Version v2.1 - 16th August, 2019
+--------------------------------------------------------------------------
+
+ - UPDATED:  Color Switcher (Easy to Change Color of the Demos)
+ - UPDATED:  Minor changes in alignment and color
+ - UPDATED:  Color Switcher (Easy to Change Color of the Demos)
+ - UPDATED:  Minor changes in alignment and color
+ - UPDATED:  Alignment in Login and Signup Page
+ - UPDATED:  Blog Image Size in Demo-01
+
+--------------------------------------------------------------------------
+Version v2.0 - 12th June, 2019
+--------------------------------------------------------------------------
+
+ - NEW: Added Four Demos
+ - NEW: NEW: Added 12+ Inner Pages
+ - NEW: Icons Updated
+ - UPDATED: Forms with Captcha
+ - UPDATED: Bootstrap Latest Version
+  
+--------------------------------------------------------------------------
+Version v1.0 - 05th January, 2019
+--------------------------------------------------------------------------
+
+ - Initial release
